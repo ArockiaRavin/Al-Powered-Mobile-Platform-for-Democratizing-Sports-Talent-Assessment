@@ -1,0 +1,84 @@
+# ==================================================
+# Democratizing Sports Talent Assessment
+# .gitignore
+# ==================================================
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Build Output
+build/
+dist/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Runtime Data
+pids/
+*.pid
+*.seed
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Virtual Environment
+.python-version
+
+# Database
+*.db
+*.sqlite3
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage Reports
+coverage/
+
+# Temporary Files
+tmp/
+temp/
+
+# Package Lock Files (Optional)
+# package-lock.json
+# yarn.lock
+
+# Firebase
+.firebase/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
