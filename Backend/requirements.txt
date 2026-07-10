@@ -1,0 +1,15 @@
+Flask==3.1.0
+Flask-Cors==5.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.7.1
+PyMySQL==1.1.1
+python-dotenv==1.0.1
+gunicorn==23.0.0
+
+numpy==2.2.0
+pandas==2.2.3
+scikit-learn==1.6.1
+opencv-python==4.10.0.84
+mediapipe==0.10.21
+tensorflow==2.18.0
+Pillow==11.0.0
